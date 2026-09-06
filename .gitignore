@@ -1,3 +1,9 @@
+data
+models
+reports
+
+log_file_path
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
